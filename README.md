@@ -1,2 +1,1 @@
-# hockeyJuli
-Egg - Trabajo Integrador Git - GitHub
+# Migthy Ducks Hockey League
